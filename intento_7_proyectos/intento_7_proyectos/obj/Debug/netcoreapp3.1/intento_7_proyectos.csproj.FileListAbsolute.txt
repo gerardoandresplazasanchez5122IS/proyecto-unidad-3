@@ -1,0 +1,14 @@
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\bin\Debug\netcoreapp3.1\intento_7_proyectos.exe
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\bin\Debug\netcoreapp3.1\intento_7_proyectos.deps.json
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\bin\Debug\netcoreapp3.1\intento_7_proyectos.runtimeconfig.json
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\bin\Debug\netcoreapp3.1\intento_7_proyectos.runtimeconfig.dev.json
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\bin\Debug\netcoreapp3.1\intento_7_proyectos.dll
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\bin\Debug\netcoreapp3.1\intento_7_proyectos.pdb
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.csproj.AssemblyReference.cache
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.AssemblyInfoInputs.cache
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.AssemblyInfo.cs
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.csproj.CoreCompileInputs.cache
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.dll
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.pdb
+C:\Users\roge_\OneDrive\Escritorio\pruebas de c# en visual estudio\intento_7_proyectos\intento_7_proyectos\obj\Debug\netcoreapp3.1\intento_7_proyectos.genruntimeconfig.cache
